@@ -1,0 +1,1 @@
+this folder contains randoms or code snippets that dont belong anywhere
